@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jest tests" tests="5" failures="0" time="2.597">
+  <testsuite name="undefined" errors="0" failures="0" skipped="0" timestamp="2020-11-20T12:23:01" time="2.037" tests="5">
+    <testcase classname=" Should Add item to cart" name=" Should Add item to cart" time="0.066">
+    </testcase>
+    <testcase classname=" Should Calculate correct price before selecting coupon" name=" Should Calculate correct price before selecting coupon" time="0.039">
+    </testcase>
+    <testcase classname=" Should calculate discounts on selecting a coupon" name=" Should calculate discounts on selecting a coupon" time="0.028">
+    </testcase>
+    <testcase classname=" Should recalculate prices when item is removed from cart" name=" Should recalculate prices when item is removed from cart" time="0.041">
+    </testcase>
+    <testcase classname=" Should recalculate prices when coupon is changed" name=" Should recalculate prices when coupon is changed" time="0.037">
+    </testcase>
+  </testsuite>
+</testsuites>
