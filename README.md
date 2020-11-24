@@ -1,6 +1,6 @@
 # React: HackerShop Checkout
 
-## Environment 
+## Environment
 
 - React Version: 16.13.1
 - Node Version: ^12.18.3
@@ -73,15 +73,17 @@ _Note: Please note that the component has the above data-testid attributes for t
 - [src/App.test.js]
 
 **Commands**
-- run: 
+- run:
 ```bash
 bash bin/env_setup && . $HOME/.nvm/nvm.sh && npm start
 ```
-- install: 
+- install:
 ```bash
 bash bin/env_setup && . $HOME/.nvm/nvm.sh && npm install
 ```
-- test: 
+- test:
 ```bash
 bash bin/env_setup && . $HOME/.nvm/nvm.sh && npm test
 ```
+
+![Branches](./coverage/badge-branches.svg "Coverage - Branches") ![Branches](./coverage/badge-functions.svg "Coverage - Functions") ![Branches](./coverage/badge-lines.svg "Coverage - Lines") ![Branches](./coverage/badge-statements.svg "Coverage - Statements")
